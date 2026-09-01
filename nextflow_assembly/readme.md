@@ -1,6 +1,8 @@
-# Assembly from raw reads to spades meta (with busco and quast reports)
+# Assembly from raw reads
 
-### Location of the pipeline: projappl/${PROJECT}/nextflow_assembly/
+### Pipeline files
+
+Location of the pipeline: projappl/${PROJECT}/nextflow_assembly/
 
 It contains 
 * `full_assembly.nf` file
